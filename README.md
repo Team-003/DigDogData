@@ -1,6 +1,6 @@
 # DigDogData
 
-#_Project Participants
+# Project Participants
 
 # Nick Alderete, Micah Miranda, Justin Dotson, Justin Harrington
 

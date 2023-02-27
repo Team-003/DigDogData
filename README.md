@@ -1,8 +1,8 @@
 # DigDogData
 
-# Project Participants
+## Project Participants
 
-# Nick Alderete, Micah Miranda, Justin Dotson, Justin Harrington
+### Nick Alderete, Micah Miranda, Justin Dotson, Justin Harrington
 
 ## Project
 A company specializing in remote surveying and GIS solutions has grown steadily and now wants to upgrade and formalize its IT systems.
